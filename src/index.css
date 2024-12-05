@@ -1,0 +1,10 @@
+@import '@fontsource/comic-neue';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Comic Neue', cursive;
+  background-color: #f0f0f0;
+}
